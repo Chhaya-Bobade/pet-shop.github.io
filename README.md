@@ -16,4 +16,5 @@ The main feature of this website are:
 9. responsive footer section using css grid.
 
 
-![WhatsApp Image 2022-06-25 at 3 58 11 PM](https://user-images.githubusercontent.com/91379325/175769691-56704559-58a9-4f3b-8a03-c5e27ee6026e.jpeg)
+
+![WhatsApp Image 2022-06-25 at 4 02 32 PM](https://user-images.githubusercontent.com/91379325/175769824-e56e236a-fa49-4a9c-a646-e03e3e1f9163.jpeg)

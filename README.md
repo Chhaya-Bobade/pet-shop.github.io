@@ -1,6 +1,6 @@
 # pet-shop.github.io
 
-[Deploy link is here](https://github.com/Chhaya-Bobade/pet-shop.github.io)
+[Deploy link is here](https://chhaya-bobade.github.io/pet-shop.github.io/)
 
 This is a simple online pet shop website design using html SASS and javascript.
 
